@@ -1,0 +1,16 @@
+h1 {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  position: absolute;
+  width: 25rem;
+}
+.front-text {
+  z-index: 5;
+}
+.back-text {
+  left: 0.4rem;
+  top: 0.3rem;
+  -webkit-text-stroke: 2px black;
+  color: white;
+}
